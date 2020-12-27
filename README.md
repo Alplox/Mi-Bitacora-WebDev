@@ -39,3 +39,5 @@ Existen múltiples cursos gratuitos tanto como de pago respecto a estos temas y 
 <a href="https://iconscout.com/icons/javascript" target="_blank">Javascript</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a>
 
 <a href="https://iconscout.com/icons/python" target="_blank">Python</a> by <a href="https://iconscout.com/contributors/icons8" target="_blank">Icons8</a>
+
+[![HitCount](http://hits.dwyl.io/{Alplox}/{Mi-Bitacora-WebDev}.svg)](http://hits.dwyl.io/{Alplox}/{Mi-Bitacora-WebDev})
