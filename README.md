@@ -1,6 +1,12 @@
-# Mi Bitacora para ser un Web Developer
+# Mi Bitácora para ser un Web Developer
 ## HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) - CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32) - JavaScript ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=javascript&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F225993.png&width=32&height=32) - Python ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=python&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F569257.png&width=32&height=32) 
-Mi bitacora y recursos utilizados para aprender HTML, CSS, JavaScript y Python.
+Documentando mi proceso de auto enseñanza junto a los recursos utilizados para aprender HTML, CSS, JavaScript y Python.
+
+- ***Contenido:***
+    - [📺📱 Recursos multimedia que he utilizado](#recursos-multimedia-que-he-utilizado)
+    - [🔗 Enlaces complementarios](#enlaces-complementarios)
+    - [¿Por qué llevar una bitácora?](#¿por-qué-llevar-una-bitácora?)
+    - [Créditos Iconos](#créditos-iconos)
 
 ## Recursos multimedia que he utilizado
 *No están en orden cronológico, ni tampoco como recomendaría irlos viendo. Es tan solo el orden en que yo los fui viendo.*
@@ -13,7 +19,6 @@ Mi bitacora y recursos utilizados para aprender HTML, CSS, JavaScript y Python.
 | 📱 Aplicación      | [Grasshopper: Aprende a programar gratis](https://play.google.com/store/apps/details?id=com.area120.grasshopper)                                                                                                                                                                                                                                                                                                                                                                   | JavaScript ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=javascript&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F225993.png&width=32&height=32)                                                                                                                                                                           | en desarrollo... | Diseñada para un público un poco más joven que yo, por lo que parte con contenido bastante sencillo pero la cantidad de información que entrega en sus notas complementarias es de gran ayuda y está bien condensada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 
-
 ## Enlaces complementarios
 | Enlace                                                                   | Lenguaje(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,8 +26,11 @@ Mi bitacora y recursos utilizados para aprender HTML, CSS, JavaScript y Python.
 | https://www.w3schools.com/html                                           | HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) - CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32) - JavaScript ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=javascript&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F225993.png&width=32&height=32) - Python ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=python&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F569257.png&width=32&height=32)  |
 
 
+## ¿Por qué llevar una bitácora? 
+Existen múltiples cursos gratuitos tanto como de pago respecto a estos temas y siempre suelen tener comentarios positivos sin ningún tipo de critica que me permita saber que anticipar o, por otro lado, conocer de que modo le ayudo dicha guía a esa persona. Por ello he decidido documentar mi proceso de aprendizaje, así si alguien llega a este repositorio durante su proceso de auto enseñanza este pueda tener videos/aplicaciones/enlaces que le ayuden, pero más importante anticipar si aquel curso x de una duración de 3 horas vale la pena o solo es otro video que habla de algo que ya se ha visto/aprendido evitándose esa pérdida de tiempo (como yo seguramente hare o ya hice).
 
-## Iconos
+
+## Créditos Iconos
 <a href="https://iconscout.com/icons/css" target="_blank">Css Logo Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons" target="_blank">Pixel Icons</a>
 
 <a href="https://iconscout.com/icons/html" target="_blank">html</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
