@@ -5,7 +5,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
 - ***Contenido:***
     - [📺📱 Recursos multimedia que he utilizado](#recursos-multimedia-que-he-utilizado)
     - [🔗 Enlaces complementarios](#enlaces-complementarios)
-    - [¿Por qué llevar una bitácora?](#¿por-qué-llevar-una-bitácora?)
+    - [¿Por qué llevar una bitácora?](#por-qué-llevar-una-bitácora)
     - [Créditos Iconos](#créditos-iconos)
 
 ## Recursos multimedia que he utilizado
