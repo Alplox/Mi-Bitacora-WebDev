@@ -98,10 +98,9 @@ A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente s
 
 <a href="https://iconscout.com/icons/python" target="_blank">Python</a> by <a href="https://iconscout.com/contributors/icons8" target="_blank">Icons8</a>
 
- # Donaciones
+## Donaciones
  
- https://www.paypal.me/Afack
- 
- https://streamlabs.com/alflox
+* https://www.paypal.me/Afack
+* https://streamlabs.com/alflox
 
 [![HitCount](http://hits.dwyl.com/Alplox/Mi-Bitacora-WebDev.svg)](http://hits.dwyl.com/Alplox/Mi-Bitacora-WebDev)
