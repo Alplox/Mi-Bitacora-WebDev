@@ -44,6 +44,7 @@ Sitios que sirven como guías de por sí solos, otros pueden servir de inspiraci
 | (Inglés) https://upskillcourses.com/courses/essential-web-developer-course | ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) -  ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32) - ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=javascript&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F225993.png&width=32&height=32)                                                                                                                                                                                     |
 
 ## Herramientas-Inspiración-Otros
+
 | Enlace                                                           | Comentario                                                                  |
 |------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | https://github.com/kamranahmedse/developer-roadmap               | Guía visual (Roadmap) para ser un web developer.                            |
