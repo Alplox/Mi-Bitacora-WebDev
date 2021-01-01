@@ -137,4 +137,4 @@ A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente s
 * https://www.paypal.me/Afack
 * https://streamlabs.com/alflox
 
-[![HitCount](http://hits.dwyl.com/Alplox/Mi-Bitacora-WebDev.svg)](http://hits.dwyl.com/Alplox/Mi-Bitacora-WebDev)
+[![HitCount](http://hits.dwyl.com/Alplox/mi-bitacora-webdev.svg)](http://hits.dwyl.com/Alplox/mi-bitacora-webdev)
