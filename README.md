@@ -1,7 +1,7 @@
 # Mi Bitácora para ser un Web Developer
 AÚN SE SIGUE ACTUALIZANDO :D
 
-Esta publicación va siendo actualizada en paralelo con: https://www.apuntesplox.xyz/2020/12/mi-bitacora-para-ser-un-web-developer.html
+Esta publicación va siendo actualizada en paralelo con: https://alenplox.blogspot.com/2021/01/mi-bitacora-para-ser-un-web-developer.html
 
 ## HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) - CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32) - JavaScript ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=javascript&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F225993.png&width=32&height=32) - Python ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=python&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F569257.png&width=32&height=32) 
 Documentando mi proceso de auto enseñanza junto a los recursos utilizados para aprender HTML, CSS, JavaScript y Python.
@@ -15,7 +15,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
     - [Donaciones](#donaciones)
 
 ## Recursos multimedia que he utilizado
-*No están en orden cronológico, ni tampoco como recomendaría irlos viendo. Es tan solo el orden en que yo los fui viendo.*
+*No están en orden cronológico, ni tampoco como recomendaría irlos viendo. Es tan solo el orden en que yo los fui viendo/terminando.*
 
 | Tipo                                                  | Recurso                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Lenguajes(s)                                                                                                                                                                                                                                                                                                                                                               | Nota (de 10)     | Reseña                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -125,6 +125,10 @@ Existen múltiples cursos gratuitos tanto como de pago respecto a estos temas y 
 
 A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente si busco algo y ya tengo muchos marcadores en mi navegador por lo que ir liberándome de algunos acá me parece una buena decisión.
 
+## Bitácoras semanales
+- [Semana 1](https://alenplox.blogspot.com/2021/01/bitacora-web-developer-semana-1.html)
+- Semana 2 (pronto)
+
 
 ## Créditos Iconos
 <a href="https://iconscout.com/icons/css" target="_blank">Css Logo Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons" target="_blank">Pixel Icons</a>
@@ -139,5 +143,3 @@ A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente s
  
 * https://www.paypal.me/Afack
 * https://streamlabs.com/alflox
-
-[![HitCount](http://hits.dwyl.com/Alplox/mi-bitacora-webdev.svg)](http://hits.dwyl.com/Alplox/mi-bitacora-webdev)
