@@ -11,7 +11,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 - [Guías](#guias-)
 - [Foros-Blogs-Inspiración](#foros-blogs-inspiración-)
 
-## Editores de código online [^](#table)
+## Editores de código online [^](#tabla-de-contenido)
 * https://jsfiddle.net/
 * https://codesandbox.io/
 * https://codepen.io/
@@ -23,7 +23,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://dillinger.io (Editor Markdown)
 * https://stackedit.io/ (Editor Markdown)
 
-## Herramientas [^](#table)
+## Herramientas [^](#tabla-de-contenido)
 * https://iframely.com/ (Herramienta para generar embed iframes)
 * https://caniuse.com/ (Conocer compatibilidad con navegadores acorde a caracteristicas front-end)
 * https://carbon.now.sh (Compartir código como imagen)
@@ -72,7 +72,7 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://vecta.io (Editor SVG online)
     * https://yoksel.github.io/url-encoder/ (SVG a CSS)
 
-## Recursos [^](#table)
+## Recursos [^](#tabla-de-contenido)
 * https://pastebin.com/gfBPg24A (PHP)
 * https://free-for.dev (Recursos gratuitos para desarrolladores)
 * https://github.com/EbookFoundation/free-programming-books/ (libros gratuitos de programación)
@@ -120,7 +120,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * Hosting gratuito
     * https://neocities.org/ 
 
-## Guías [^](#table)
+## Guías [^](#tabla-de-contenido)
 * https://code.visualstudio.com/docs/languages/overview (Guías de como interactúan diferentes lenguajes con Visual Studio Code)
 * https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/ (Guía y recursos generales para ser un web developer)
 * https://piccalil.li/ (Guía y recursos generales front-end)
@@ -154,7 +154,7 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://www.smashingmagazine.com/2016/04/web-developer-guide-color/ (Guía de selección de color)
 
 
-## No Copyright [^](#table)
+## No Copyright [^](#tabla-de-contenido)
 * https://github.com/neutraltone/awesome-stock-resources
 * https://github.com/shime/creative-commons-media
 * https://icons8.com/
@@ -183,7 +183,7 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://www.productdesignresources.com/
     * https://lordicon.com/
 
-## Foros-Blogs-Inspiración [^](#table)
+## Foros-Blogs-Inspiración [^](#tabla-de-contenido)
 * Foros Desarrollo
     * https://dev.to/
     * https://developerbacon.ca/
