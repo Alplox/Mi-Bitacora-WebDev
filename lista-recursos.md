@@ -9,6 +9,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 - [Recursos](#recursos-)
 - [No Copyright](#no-copyright-)
 - [Guías](#guías-)
+- [Guías y cursos escritos](#guías-y-cursos-escritos-)
 - [Foros-Blogs-Inspiración](#foros-blogs-inspiración-)
 
 ## Editores de código online [^](#tabla-de-contenido)
@@ -117,6 +118,7 @@ https://github.com/Alplox/mi-bitacora-webdev
         * https://github.com/troxler/awesome-css-frameworks (Lista de Frameworks CSS)
         * https://jdan.github.io/98.css/ (Emula estilo Windows 98)
         * https://github.com/uhub/awesome-css (Lista de Frameworks, librerías y software CSS)
+        * https://materializecss.com/about.html (Front-end Framework basado en Material Design)
 * Hosting gratuito
     * https://neocities.org/ 
 
@@ -143,15 +145,41 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://learn-anything.xyz/web-development
     * https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1
 * Diseño
-    * https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 (Guía diseño UI)
-    * https://materializecss.com/about.html (Guías CSS/JavaScript/Diseño UI)
+    * https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 (Tips diseño UI)
     * https://dhd.gitbook.io/dhd-glosario-ux/ (Glosario Diseño UX)
     * https://mosaic.uoc.edu/2015/09/15/proceso-de-desarrollo-de-un-proyecto-digital/ (Guía de las etapas por la que pasa el diseño de una web o una aplicación informática)
-    * https://material.io/ (Guía diseño UI)
-    * https://lawsofux.com/ (Guía diseño UI)
-    * https://www.figma.com/resources/learn-design/ (Guía diseño UI)
     * https://medium.com/@meetchopz/10-bad-typography-habits-that-scream-amateur-8bac07f9c041 (10 malos hábitos tipográficos)
     * https://www.smashingmagazine.com/2016/04/web-developer-guide-color/ (Guía de selección de color)
+
+## Guías y cursos escritos [^](#tabla-de-contenido)
+*Algunos si incluyen videos*
+* https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web (HTML, CSS y JS)
+* https://www.w3schools.com/ (HTML, CSS y JS)
+* https://informaticapc.com/tutorial-html/ (HTML, CSS y JS)
+* https://uniwebsidad.com/?from=librosweb (HTML, CSS y JS)
+* https://www.hazunaweb.com/ (HTML y CSS)
+* https://es.javascript.info/ (JS)
+* https://jsparagatos.com/ (JS)
+* https://openlibra.com/es/book/introduccion-a-javascript (JS)
+* https://learnxinyminutes.com/docs/es-es/javascript-es/ (JS)
+* https://aprendejavascript.org/ (JS)
+* Ingles
+    * https://www.freecodecamp.org/ (HTML, CSS y JS)
+    * https://www.theodinproject.com/ (HTML, CSS y JS)
+    * https://fullstackopen.com/en/ (HTML, CSS y JS)
+    * https://devdocs.io/ (HTML, CSS y JS)
+    * https://css-tricks.com/snippets/ (HTML, CSS y JS)
+    * https://upskillcourses.com/courses/essential-web-developer-course (HTML, CSS y JS)
+    * https://www.internetingishard.com/ (HTML, CSS y JS)
+    * https://codebabes.com/ (HTML, CSS y JS)
+    * https://wesbos.com/courses (requieren un [correo](https://temp-mail.org)) (HTML, CSS y JS)
+    * https://movethewebforward.org/ (HTML y CSS)
+    * https://eloquentjavascript.net/ (JS)
+    * https://uxengineer.com/principles-of-design/ (Diseño UI)
+    * https://shiftnudge.com/ (Diseño UI)
+    * https://material.io/ (Diseño UI)
+    * https://lawsofux.com/ (Diseño UI)
+    * https://www.figma.com/resources/learn-design/ (Diseño UI)
 
 
 ## No Copyright [^](#tabla-de-contenido)
@@ -176,6 +204,7 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://undraw.co/illustrations
     * https://lukaszadam.com/illustrations
     * https://www.manypixels.co/gallery
+    * https://illlustrations.co/
 * Imágenes
     * https://pxhere.com/en/
     * https://pixabay.com/
@@ -210,4 +239,3 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://10kbclub.com/
     * https://1mb.club/
     * https://www.goodsites.tech/
-
