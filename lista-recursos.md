@@ -107,7 +107,7 @@ https://github.com/Alplox/mi-bitacora-webdev
         * https://www.pixijs.com/ (2D WebGL renderer)
         * https://github.com/cmiscm/leonsans (Efectos para letras)
         * https://www.curtainsjs.com/ (Convierte elementos HTML que contengan imágenes y/o videos en texturas 3D WebGL)
-        * https://zzz.dog/ (Motor 3D para "<canvas>" y SVG)
+        * https://zzz.dog/ (Motor 3D para canvas y SVG)
         * https://barba.js.org/ (animar transiciones dentro de páginas en un sitio web)
         * https://alvarotrigo.com/fullPage/es/ (animar transiciones dentro de páginas en un sitio web)
         * https://packery.metafizzy.co/ (Draggable layouts)
