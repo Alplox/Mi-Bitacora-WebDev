@@ -4,11 +4,11 @@ Lista de todo sitio que he ido encontrando durante mi proceso de auto aprendizaj
 https://github.com/Alplox/mi-bitacora-webdev
 
 # Tabla de contenido
-- [Editores de código online](#editores-de-codigo-online-)
+- [Editores de código online](#editores-de-código-online-)
 - [Herramientas](#herramientas-)
 - [Recursos](#recursos-)
 - [No Copyright](#no-copyright-)
-- [Guías](#guias-)
+- [Guías](#guías-)
 - [Foros-Blogs-Inspiración](#foros-blogs-inspiración-)
 
 ## Editores de código online [^](#tabla-de-contenido)
