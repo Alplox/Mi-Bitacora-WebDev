@@ -183,6 +183,7 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://www.internetingishard.com/ (HTML, CSS y JS)
     * https://codebabes.com/ (HTML, CSS y JS)
     * https://wesbos.com/courses (requieren un [correo](https://temp-mail.org)) (HTML, CSS y JS)
+    * https://hackr.io/ (HTML, CSS y JS)
     * https://movethewebforward.org/ (HTML y CSS)
     * https://eloquentjavascript.net/ (JS)
     * https://uxengineer.com/principles-of-design/ (Diseño UI)
