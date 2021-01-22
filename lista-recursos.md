@@ -38,6 +38,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://online-video-cutter.com/es/ (Recortar video online)
 * https://www.toptal.com/developers/gitignore (Crear archivos .gitignore)
 * https://gitexplorer.com/ (Ayuda para comandos Git)
+* https://dummyimage.com/ (Generador de imágenes estáticas con su resolución)
 * Herramientas de colores
     * https://www.colorhexa.com/
     * https://uigradients.com
@@ -84,6 +85,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://svelte.dev/ (Alternativa a React o Vue)
 * https://forthebadge.com/ (Insignias por poner algo)
 * https://github.com/Echobob/awesome-all/tree/94a8e0fa6d1cdcaaaf12e04b6c507e578440c1b5 (Listas de todo)
+* https://loremipsum.io/21-of-the-best-placeholder-image-generators/ (Lista sitios para generar imágenes placeholder)
 * Templates
     * https://cssauthor.com/ (Templates variadas)
     * https://mobirise.com/bootstrap-4-theme/navbar-template.html (Bootstrap)
@@ -208,6 +210,15 @@ https://github.com/Alplox/mi-bitacora-webdev
 * Imágenes
     * https://pxhere.com/en/
     * https://pixabay.com/
+    * http://www.stockvault.net/
+    * http://www.gratisography.com/
+    * http://www.rgbstock.com/
+    * http://splitshire.com/
+    * http://littlevisuals.co/
+    * http://picjumbo.com/
+    * http://foter.com/
+    * http://www.lifeofpix.com/
+    * http://pickupimage.com/
 * Incluyen de pago
     * https://www.productdesignresources.com/
     * https://lordicon.com/
@@ -239,3 +250,4 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://10kbclub.com/
     * https://1mb.club/
     * https://www.goodsites.tech/
+    * https://brutalistwebsites.com/
