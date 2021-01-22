@@ -48,3 +48,5 @@ A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente s
  
 * https://www.paypal.me/Afack
 * https://streamlabs.com/alflox
+
+[![Visits Badge](https://badges.pufler.dev/visits/Alplox/mi-bitacora-webdev)](https://badges.pufler.dev)
