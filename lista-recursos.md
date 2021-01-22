@@ -26,7 +26,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 
 ## Herramientas [^](#tabla-de-contenido)
 * https://iframely.com/ (Herramienta para generar embed iframes)
-* https://caniuse.com/ (Conocer compatibilidad con navegadores acorde a caracteristicas front-end)
+* https://caniuse.com/ (Conocer compatibilidad con navegadores acorde a características front-end)
 * https://carbon.now.sh (Compartir código como imagen)
 * https://www.photopea.com/ (Photoshop online gratis)
 * https://sketch2code.azurewebsites.net/ (Dibujo a HTML)
@@ -39,6 +39,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://www.toptal.com/developers/gitignore (Crear archivos .gitignore)
 * https://gitexplorer.com/ (Ayuda para comandos Git)
 * https://dummyimage.com/ (Generador de imágenes estáticas con su resolución)
+* https://pixelcraft.web.app/ (Editor PixelArt)
 * Herramientas de colores
     * https://www.colorhexa.com/
     * https://uigradients.com
@@ -51,6 +52,7 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://www.nordtheme.com/ (Paleta de colores)
     * https://brandcolors.net/
     * https://coolors.co/ (Paleta de colores)
+    * https://webaim.org/resources/contrastchecker/ (Comprobar contraste)
 * CSS
     * https://grid.layoutit.com/ (Herramienta CSS Grid)
     * https://css-playground.com/
@@ -66,13 +68,18 @@ https://github.com/Alplox/mi-bitacora-webdev
 * Diseño 
     * https://aspect.app/ 
     * https://builderx.io/ (React Native & React)
+    * https://www.figma.com/
+    * https://primo.so/
+    * https://figside.com/
 * SVG
-    * https://www.coffee-break-designs.com/labs/svg_stripe_generator/ (Generador de lineas)
+    * https://www.coffee-break-designs.com/labs/svg_stripe_generator/ (Generador de líneas)
     * https://www.svgbackgrounds.com/ (Generador de fondos) 
     * https://www.heropatterns.com/ (Generador de fondos) 
     * https://css-tricks.com/tools-visualize-edit-svg-paths-kinda/
     * https://vecta.io (Editor SVG online)
     * https://yoksel.github.io/url-encoder/ (SVG a CSS)
+    * https://app.tweentoast.com/ (SVG a 3D)
+    * https://doodad.dev/pattern-generator/ (Generador de patrones)
 
 ## Recursos [^](#tabla-de-contenido)
 * https://pastebin.com/gfBPg24A (PHP)
@@ -81,7 +88,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://www.codegrepper.com/code-examples/ (Ejemplos de código de diversos lenguajes)
 * https://devhints.io/ (Colección de cheatsheets)
 * https://www.java5cript.com/ (Recursos gratuitos JavaScript)
-* https://rosettacode.org/wiki/Rosetta_Code (Crestomatía de programación, enseña como realizar algo en el mayor número de lengujaes posibles)
+* https://rosettacode.org/wiki/Rosetta_Code (Crestomatía de programación, enseña cómo realizar algo en el mayor número de lengujaes posibles)
 * https://svelte.dev/ (Alternativa a React o Vue)
 * https://forthebadge.com/ (Insignias por poner algo)
 * https://github.com/Echobob/awesome-all/tree/94a8e0fa6d1cdcaaaf12e04b6c507e578440c1b5 (Listas de todo)
@@ -91,18 +98,18 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://mobirise.com/bootstrap-4-theme/navbar-template.html (Bootstrap)
     * https://html5up.net/ (Templates HTML5)
     * https://nightfury-alfa.com/pages/codingsnow/codingsnow.php (Templates variadas)
-* Software:
+* Software
     * https://responsively.app (Navegador diseñado para desarrolladores)
     * https://gitloft.com/ (Lista software Open Source)
-    * https://www.streamlit.io/ (scripts into sharable web apps)
+    * https://www.streamlit.io/ (Scripts into sharable web apps)
     * https://typora.io/ (Editor Markdown)
     * https://zealdocs.org/ (Documentación offline para desarroladores)
-* Librerias
+* Librerías
     * JS 
-        * https://modernizr.com/ (detecta funcionalidades disponibles en navegadores usuarios) 
-        * https://emotion.sh/docs/introduction (escribir estilos CSS con JavaScript)
-        * https://animejs.com/ (animaciones con JavaScript)
-        * https://scrollrevealjs.org/ (animaciones cuando elementos entran y salen de viewport)
+        * https://modernizr.com/ (Detecta funcionalidades disponibles en navegadores usuarios) 
+        * https://emotion.sh/docs/introduction (Escribir estilos CSS con JavaScript)
+        * https://animejs.com/ (Animaciones con JavaScript)
+        * https://scrollrevealjs.org/ (Animaciones cuando elementos entran y salen de viewport)
         * https://livejs.com/ (Actualiza tu sitio web de manera automática al sufrir cambios)
         * https://blotter.js.org/ (Efectos para letras)
         * https://sweetalert.js.org/guides/ (Cambia aspecto alertas JS)
@@ -110,8 +117,8 @@ https://github.com/Alplox/mi-bitacora-webdev
         * https://github.com/cmiscm/leonsans (Efectos para letras)
         * https://www.curtainsjs.com/ (Convierte elementos HTML que contengan imágenes y/o videos en texturas 3D WebGL)
         * https://zzz.dog/ (Motor 3D para canvas y SVG)
-        * https://barba.js.org/ (animar transiciones dentro de páginas en un sitio web)
-        * https://alvarotrigo.com/fullPage/es/ (animar transiciones dentro de páginas en un sitio web)
+        * https://barba.js.org/ (Animar transiciones dentro de páginas en un sitio web)
+        * https://alvarotrigo.com/fullPage/es/ (Animar transiciones dentro de páginas en un sitio web)
         * https://packery.metafizzy.co/ (Draggable layouts)
     * CSS
         * https://bulma.io/ (Framework basado en Flexbox)
@@ -128,14 +135,15 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://code.visualstudio.com/docs/languages/overview (Guías de como interactúan diferentes lenguajes con Visual Studio Code)
 * https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/ (Guía y recursos generales para ser un web developer)
 * https://piccalil.li/ (Guía y recursos generales front-end)
-* https://darkpatterns.org/index.html (Guía para reconocer trucos utilizados en sitios web y aplicaciones que te obligan a hacer cosas que no querias)
+* https://darkpatterns.org/index.html (Guía para reconocer trucos utilizados en sitios web y aplicaciones que te obligan a hacer cosas que no querías)
 * https://github.com/adonismendozaperez/33-js-conceptos (33 Conceptos que todo desarrollador de JavaScript debería saber)
-* https://cssreference.io/ (Guias visuales CSS)
-* https://htmlreference.io/ (Guias visuales HTML)
+* https://cssreference.io/ (Guías visuales CSS)
+* https://htmlreference.io/ (Guías visuales HTML)
 * https://hotwire.dev/ (HTML en vez de JSON)
 * https://github.com/andersontr15/clean-code-javascript-es (Guía para escribir código JS comprensible)
 * https://goalkicker.com/ (Apuntes de libros de programación)
 * https://andreasbm.github.io/web-skills/ (Guía de habilidades a aprender como desarrollador web)
+* https://responsibleweb.app/ (Articulo sobre diseño responsive)
 * Practicas/Ejercicios
     * https://cssgridgarden.com/#es (CSS)
     * https://exercism.io/ (Diversos lenguajes)
@@ -165,7 +173,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://openlibra.com/es/book/introduccion-a-javascript (JS)
 * https://learnxinyminutes.com/docs/es-es/javascript-es/ (JS)
 * https://aprendejavascript.org/ (JS)
-* Ingles
+* Inglés
     * https://www.freecodecamp.org/ (HTML, CSS y JS)
     * https://www.theodinproject.com/ (HTML, CSS y JS)
     * https://fullstackopen.com/en/ (HTML, CSS y JS)
@@ -189,7 +197,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://github.com/shime/creative-commons-media
 * https://icons8.com/
 * https://thenounproject.com/ (Iconos e imágenes)
-* https://www.toptal.com/designers/subtlepatterns/ (patrones)
+* https://www.toptal.com/designers/subtlepatterns/ (Patrones)
 * https://uifaces.co/ (Caras/Avatares)
 * https://openlibra.com/es/ (Libros)
 * Iconos
