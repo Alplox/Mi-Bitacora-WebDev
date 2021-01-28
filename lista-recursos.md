@@ -116,7 +116,9 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://pixelcraft.web.app/ (Editor PixelArt)
     * https://www.piskelapp.com/ (Editor PixelArt)
     * https://patternico.com/ (Generador de patrones)
-    * https://trianglify.io/ (Generador de fondos, de pago) 
+    * https://trianglify.io/ (Generador de fondos, de pago)
+    * https://tomato.to/ (Descargar imágenes stock)
+    * https://coolbackgrounds.io/ (Generador de fondos)
 * Diseño 
     * https://aspect.app/ 
     * https://builderx.io/ (React Native & React)
@@ -200,6 +202,7 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://pages.github.com/
     * https://www.netlify.com/
     * https://www.heroku.com/
+    * https://www.000webhost.com/
 
 ## Guías [^](#tabla-de-contenido)
 * https://code.visualstudio.com/docs/languages/overview (Guías de como interactúan diferentes lenguajes con Visual Studio Code)
@@ -282,6 +285,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://uispace.net/ (Mockups, Iconos, Ilustraciones, Templates)
 * https://www.invisionapp.com/inside-design/design-resources/ (Mockups, Iconos, Ilustraciones, Templates)
 * https://freebiesketch.com/ (Mockups, Iconos, Ilustraciones, Templates)
+* https://www.epidemicsound.com/latest-tracks/ (Música)
 * Iconos
     * https://svgbox.net/
     * https://www.svgrepo.com
@@ -327,6 +331,23 @@ https://github.com/Alplox/mi-bitacora-webdev
     * http://www.lifeofpix.com/
     * http://pickupimage.com/
     * https://uifaces.co/ (Caras/Avatares)
+    * https://picrew.me/image_maker/
+    * https://www.pexels.com/
+    * https://unsplash.com/
+    * https://stocksnap.io/
+* Fuentes
+    * https://fonts.google.com/
+    * https://github.com/larsenwork/Gidole
+    * https://manropefont.com/
+    * https://github.com/RedHatOfficial/Overpass
+    * https://github.com/uswds/public-sans
+    * https://github.com/floriankarsten/space-grotesk
+    * https://github.com/coreywho/Urbanist
+    * https://github.com/source-foundry/Hack
+    * https://github.com/IBM/plex
+    * https://github.com/larsenwork/monoid
+    * https://github.com/indestructible-type/Jost
+    * https://github.com/weiweihuanghuang/Work-Sans
 * Incluyen de pago
     * https://www.productdesignresources.com/
     * https://lordicon.com/
