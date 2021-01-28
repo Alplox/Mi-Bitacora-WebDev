@@ -7,7 +7,7 @@ https://github.com/Alplox/mi-bitacora-webdev
 - [Editores de código online](#editores-de-código-online-)
 - [Herramientas](#herramientas-)
 - [Recursos](#recursos-)
-- [No Copyright](#no-copyright-)
+- [Gratuito](#gratuito-)
 - [Guías](#guías-)
 - [Guías y cursos escritos](#guías-y-cursos-escritos-)
 - [Foros-Blogs-Inspiración](#foros-blogs-inspiración-)
@@ -27,19 +27,21 @@ https://github.com/Alplox/mi-bitacora-webdev
 ## Herramientas [^](#tabla-de-contenido)
 * https://iframely.com/ (Herramienta para generar embed iframes)
 * https://caniuse.com/ (Conocer compatibilidad con navegadores acorde a características front-end)
-* https://carbon.now.sh (Compartir código como imagen)
-* https://www.photopea.com/ (Photoshop online gratis)
 * https://sketch2code.azurewebsites.net/ (Dibujo a HTML)
 * https://keycode.info/ (Keycode JS)
 * https://nickfinder.com/fancy-text (Generador de texto y simbolos)
+* https://www.asciiart.eu/ (Generador de texto y simbolos)
+* https://patorjk.com/  (Generador de texto y simbolos)
 * https://www.jemoticons.com/en/ (Generador kaomoji)
 * https://wikiemoji.org/es (Emojis)
 * https://www.1001fonts.com/ (Fuentes)
 * https://online-video-cutter.com/es/ (Recortar video online)
+* https://mebm.xyz/ (Recortar video online)
 * https://www.toptal.com/developers/gitignore (Crear archivos .gitignore)
 * https://gitexplorer.com/ (Ayuda para comandos Git)
 * https://dummyimage.com/ (Generador de imágenes estáticas con su resolución)
-* https://pixelcraft.web.app/ (Editor PixelArt)
+* https://bluetree.ai/screenfly/ (Ver sitio en multiples resoluciones)
+* https://favicon.io/ (Generador de Favicons)
 * Herramientas de colores
     * https://www.colorhexa.com/
     * https://uigradients.com
@@ -49,10 +51,50 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://webgradients.com/
     * https://www.w3schools.com/colors/default.asp
     * https://htmlcolorcodes.com/es/
-    * https://www.nordtheme.com/ (Paleta de colores)
+    * https://www.nordtheme.com/ (Paleta de colores única)
     * https://brandcolors.net/
-    * https://coolors.co/ (Paleta de colores)
+    * https://coolors.co/
     * https://webaim.org/resources/contrastchecker/ (Comprobar contraste)
+    * https://colorable.jxnblk.com/ (Comprobar contraste)
+    * https://whocanuse.com/ (Comprobar contraste)
+    * https://farbvelo.elastiq.ch/
+    * https://convertingcolors.com/
+    * https://color.adobe.com/es/create/color-wheel
+    * https://www.0to255.com (Conocer degradado de un color)
+    * http://colormind.io/
+    * https://www.colorsandfonts.com/ (Herramientas de colores y Fuentes)
+    * https://www.palettelist.com/
+    * https://material.io/resources/color/
+    * https://www.materialpalette.com/
+    * https://mycolor.space/
+    * https://flatuicolors.com/
+    * https://colorsinspo.com/
+    * https://colorswall.com/
+    * https://www.happyhues.co/
+    * https://gradienthunt.com/
+    * https://colorbox.io/
+    * https://cssgradient.io/
+    * https://gradienta.io/
+    * https://palettegenerator.colorion.co/
+    * https://material.colorion.co/
+    * https://colorate.azurewebsites.net/
+    * https://www.grabient.com/
+    * https://shadeswash.netlify.app/
+    * https://brandpalettes.com/
+    * http://mcg.mbitson.com/
+    * https://meyerweb.com/eric/tools/color-blend/
+    * https://gradientbuttons.colorion.co/ (Color para botónes)
+    * http://khroma.co/
+    * https://colorhexpicker.com/
+    * https://saruwakakun.com/en/color-ideas
+    * https://image-color.com/
+    * https://www.colorzilla.com/
+    * https://colors.dopely.top/
+    * https://colors.lol/
+    * https://www.htmlcsscolor.com/
+    * https://www.colourlovers.com/palettes
+    * https://combinecolors.com/
+    * https://hexcolorcodes.org/
 * CSS
     * https://grid.layoutit.com/ (Herramienta CSS Grid)
     * https://css-playground.com/
@@ -65,12 +107,24 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://9elements.github.io/fancy-border-radius/ (Herramienta border-radius)
     * https://the-echoplex.net/flexyboxes/ (Herramienta flex-container)
     * https://neumorphism.io/ (Generar suaves UI)
+    * https://www.shapedivider.app/ (Generar formas divisoras de contenido)
+* Para Imágenes  
+    * https://www.photopea.com/ (Photoshop online gratis)
+    * https://pixlr.com/es/editor/ (Editar imágenes online gratis)
+    * https://studio.polotno.dev/ (Editor de diseños rápido)
+    * https://carbon.now.sh (Compartir código como imagen)
+    * https://pixelcraft.web.app/ (Editor PixelArt)
+    * https://www.piskelapp.com/ (Editor PixelArt)
+    * https://patternico.com/ (Generador de patrones)
+    * https://trianglify.io/ (Generador de fondos, de pago) 
 * Diseño 
     * https://aspect.app/ 
     * https://builderx.io/ (React Native & React)
     * https://www.figma.com/
     * https://primo.so/
     * https://figside.com/
+    * https://webflow.com/
+    * https://www.framer.com/
 * SVG
     * https://www.coffee-break-designs.com/labs/svg_stripe_generator/ (Generador de líneas)
     * https://www.svgbackgrounds.com/ (Generador de fondos) 
@@ -87,17 +141,25 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://github.com/EbookFoundation/free-programming-books/ (libros gratuitos de programación)
 * https://www.codegrepper.com/code-examples/ (Ejemplos de código de diversos lenguajes)
 * https://devhints.io/ (Colección de cheatsheets)
+* https://cheatography.com/ (Colección de cheatsheets)
 * https://www.java5cript.com/ (Recursos gratuitos JavaScript)
 * https://rosettacode.org/wiki/Rosetta_Code (Crestomatía de programación, enseña cómo realizar algo en el mayor número de lengujaes posibles)
 * https://svelte.dev/ (Alternativa a React o Vue)
 * https://forthebadge.com/ (Insignias por poner algo)
 * https://github.com/Echobob/awesome-all/tree/94a8e0fa6d1cdcaaaf12e04b6c507e578440c1b5 (Listas de todo)
 * https://loremipsum.io/21-of-the-best-placeholder-image-generators/ (Lista sitios para generar imágenes placeholder)
+* https://www.framer.com/motion/ (React, librería movimiento)
 * Templates
     * https://cssauthor.com/ (Templates variadas)
     * https://mobirise.com/bootstrap-4-theme/navbar-template.html (Bootstrap)
     * https://html5up.net/ (Templates HTML5)
+    * https://cruip.com/free-templates/ (Templates HTML5)
+    * https://mobirise.com/html-templates/  (Templates HTML5)
     * https://nightfury-alfa.com/pages/codingsnow/codingsnow.php (Templates variadas)
+    * https://www.free-css.com/free-css-templates (Templates CSS)
+    * https://www.zerotheme.com/ (Templates variadas)
+    * https://colorlib.com/wp/templates/ (Templates variadas)
+    * https://splawr.com/freebies (Templates variadas)
 * Software
     * https://responsively.app (Navegador diseñado para desarrolladores)
     * https://gitloft.com/ (Lista software Open Source)
@@ -120,6 +182,10 @@ https://github.com/Alplox/mi-bitacora-webdev
         * https://barba.js.org/ (Animar transiciones dentro de páginas en un sitio web)
         * https://alvarotrigo.com/fullPage/es/ (Animar transiciones dentro de páginas en un sitio web)
         * https://packery.metafizzy.co/ (Draggable layouts)
+        * https://greensock.com/ (Animación)
+        * https://micku7zu.github.io/vanilla-tilt.js/ (Animar objetos)
+        * https://jalal246.github.io/dflex/ (Manipular DOM, draggable)
+        * https://momentjs.com/ (Reloj)
     * CSS
         * https://bulma.io/ (Framework basado en Flexbox)
         * https://purecss.io/ (Módulo pequeño y responsive de CSS)
@@ -128,8 +194,12 @@ https://github.com/Alplox/mi-bitacora-webdev
         * https://jdan.github.io/98.css/ (Emula estilo Windows 98)
         * https://github.com/uhub/awesome-css (Lista de Frameworks, librerías y software CSS)
         * https://materializecss.com/about.html (Front-end Framework basado en Material Design)
+        * https://blocks.wickedtemplates.com/ (Colección layouts Tailwind CSS V2)
 * Hosting gratuito
-    * https://neocities.org/ 
+    * https://neocities.org/
+    * https://pages.github.com/
+    * https://www.netlify.com/
+    * https://www.heroku.com/
 
 ## Guías [^](#tabla-de-contenido)
 * https://code.visualstudio.com/docs/languages/overview (Guías de como interactúan diferentes lenguajes con Visual Studio Code)
@@ -144,22 +214,28 @@ https://github.com/Alplox/mi-bitacora-webdev
 * https://goalkicker.com/ (Apuntes de libros de programación)
 * https://andreasbm.github.io/web-skills/ (Guía de habilidades a aprender como desarrollador web)
 * https://responsibleweb.app/ (Articulo sobre diseño responsive)
+* https://www.contentkingapp.com/academy/javascript-seo/ (Guía buenas prácticas JavaScript)
 * Practicas/Ejercicios
     * https://cssgridgarden.com/#es (CSS)
     * https://exercism.io/ (Diversos lenguajes)
     * https://cantunsee.space/ (Diseño UI)
     * https://www.frontendmentor.io/ (HTML, CSS y JS)
     * https://devchallenges.io/ (Web, Front-end, Full-Stack)
+    * https://flexboxfroggy.com/#es (CSS)
 * Guías visuales (Roadmap) para ser un web developer
     * https://github.com/kamranahmedse/developer-roadmap
     * https://learn-anything.xyz/web-development
     * https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1
+    * https://roadmap.sh/
 * Diseño
-    * https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 (Tips diseño UI)
+    * https://refactoringui.com/ (Tips diseño UI)
     * https://dhd.gitbook.io/dhd-glosario-ux/ (Glosario Diseño UX)
     * https://mosaic.uoc.edu/2015/09/15/proceso-de-desarrollo-de-un-proyecto-digital/ (Guía de las etapas por la que pasa el diseño de una web o una aplicación informática)
     * https://medium.com/@meetchopz/10-bad-typography-habits-that-scream-amateur-8bac07f9c041 (10 malos hábitos tipográficos)
     * https://www.smashingmagazine.com/2016/04/web-developer-guide-color/ (Guía de selección de color)
+    * https://codepen.io/nicolaspavlotsky/full/ZJPXgy (Tips diseño UI)
+    * https://www.ibm.com/design/language/ (Articulo con consejos respecto a crear logos)
+    * https://1linelayouts.glitch.me/ (10 layouts CSS)
 
 ## Guías y cursos escritos [^](#tabla-de-contenido)
 *Algunos si incluyen videos*
@@ -193,14 +269,19 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://www.figma.com/resources/learn-design/ (Diseño UI)
 
 
-## No Copyright [^](#tabla-de-contenido)
+## Gratuito [^](#tabla-de-contenido)
 * https://github.com/neutraltone/awesome-stock-resources
 * https://github.com/shime/creative-commons-media
 * https://icons8.com/
 * https://thenounproject.com/ (Iconos e imágenes)
 * https://www.toptal.com/designers/subtlepatterns/ (Patrones)
-* https://uifaces.co/ (Caras/Avatares)
+* https://products.ls.graphics/paaatterns/ (Patrones)
+* http://thepatternlibrary.com/ (Patrones)
 * https://openlibra.com/es/ (Libros)
+* https://www.cutestockfootage.com/ (Videos)
+* https://uispace.net/ (Mockups, Iconos, Ilustraciones, Templates)
+* https://www.invisionapp.com/inside-design/design-resources/ (Mockups, Iconos, Ilustraciones, Templates)
+* https://freebiesketch.com/ (Mockups, Iconos, Ilustraciones, Templates)
 * Iconos
     * https://svgbox.net/
     * https://www.svgrepo.com
@@ -211,11 +292,28 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://erikflowers.github.io/weather-icons/
     * https://websygen.github.io/owfont/
     * https://www.visiwig.com/icons/
+    * https://iconduck.com/
+    * https://www.flaticon.com/
 * Ilustraciones
     * https://undraw.co/illustrations
     * https://lukaszadam.com/illustrations
     * https://www.manypixels.co/gallery
     * https://illlustrations.co/
+    * https://palms.casa/ (Palmas/Manos)
+    * https://www.humaaans.com/
+    * https://error404.fun/
+    * https://www.drawkit.io/
+    * https://www.openpeeps.com/
+    * https://www.opendoodles.com/
+    * https://avataaars.com/
+    * https://blush.design/es
+    * https://iradesign.io/
+    * https://sketchvalley.com/
+    * https://www.freevectors.net/
+    * https://delesign.com/free-designs/graphics
+    * https://storyset.com/
+    * https://growwwkit.com/illustrations/phonies
+    * https://www.vector4free.com/
 * Imágenes
     * https://pxhere.com/en/
     * https://pixabay.com/
@@ -228,9 +326,15 @@ https://github.com/Alplox/mi-bitacora-webdev
     * http://foter.com/
     * http://www.lifeofpix.com/
     * http://pickupimage.com/
+    * https://uifaces.co/ (Caras/Avatares)
 * Incluyen de pago
     * https://www.productdesignresources.com/
     * https://lordicon.com/
+    * https://animaticons.co/
+    * https://freellustrations.com/
+    * https://www.pixeltrue.com/illustrations
+    * https://storytale.io/
+    * https://pngtree.com/free-vectors
 
 ## Foros-Blogs-Inspiración [^](#tabla-de-contenido)
 * Foros Desarrollo
@@ -248,6 +352,9 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://www.figma.com/community/explore
     * https://www.awwwards.com/
     * https://www.designspiration.com/
+    * https://www.uplabs.com/
+    * https://www.underconsideration.com/brandnew/
+    * https://www.sketchappsources.com/
 * Blogs
     * https://hugodaniel.com/posts/ (HTML)
     * https://www.bufa.es/
@@ -255,8 +362,12 @@ https://github.com/Alplox/mi-bitacora-webdev
     * https://anticscode.netlify.app/home
     * https://majoledesma.github.io/react-apuntes/
     * https://losapuntesdemajo.now.sh/
+    * https://uidesigndaily.com/ (Pública diseños gratis)
+    * https://100dailyui.webflow.io/ (Diseños)
 * Inspiración exclusivamente
     * https://10kbclub.com/
     * https://1mb.club/
     * https://www.goodsites.tech/
     * https://brutalistwebsites.com/
+    * https://thebestmotherfuckingwebsite.co/
+    * https://sjmulder.nl/en/textonly.html
