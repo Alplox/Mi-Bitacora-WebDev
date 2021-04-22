@@ -25,7 +25,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
 
 ## Herramientas-Inspiración-Otros
 
-# [lista-recursos.md](https://github.com/Alplox/mi-bitacora-webdev/blob/main/lista-recursos.md)
+# [Mis Recursos WEB DEV](https://github.com/Alplox/mis-recursos-web-dev/blob/main/README.md)
 
 ## ¿Por qué llevar una bitácora? 
 Existen múltiples cursos gratuitos tanto como de pago respecto a estos temas y siempre suelen tener comentarios positivos sin ningún tipo de critica que me permita saber que anticipar o, por otro lado, conocer de qué modo le ayudo dicha guía a esa persona. Por ello he decidido documentar mi proceso de aprendizaje, así si alguien llega a este repositorio durante su proceso de auto enseñanza este pueda tener videos/aplicaciones/enlaces que le ayuden, pero más importante anticipar si aquel curso x de una duración de 3 horas vale la pena o solo es otro video que habla de algo que ya se ha visto/aprendido evitándose esa pérdida de tiempo (como yo seguramente hare o ya hice).
@@ -46,7 +46,7 @@ A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente s
 
 ## Donaciones
  
-* https://www.paypal.me/Afack
-* https://streamlabs.com/alflox
+* [https://www.paypal.me/Afack](https://www.paypal.me/Afack)
+* [https://streamlabs.com/alflox](https://streamlabs.com/alflox)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alplox/mi-bitacora-webdev)](https://badges.pufler.dev)
