@@ -121,7 +121,7 @@ A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente s
 
 # Bitácoras semanales [↑](#tabla-de-contenido)
 - [Semana 1](https://alenplox.blogspot.com/2021/01/bitacora-web-developer-semana-1.html)
-- Semana 2 (pronto)
+- [Semana 2](https://alenplox.blogspot.com/2021/04/bitacora-desarrollador-web-2.html)
 
 
 # Créditos Iconos [↑](#tabla-de-contenido)
