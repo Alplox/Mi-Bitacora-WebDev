@@ -7,19 +7,20 @@ Esta publicación va siendo actualizada en paralelo con: https://alenplox.blogsp
 Documentando mi proceso de auto enseñanza junto a los recursos utilizados para aprender HTML, CSS y JavaScript.
 
 # Tabla de contenido
-- [📺📱 Recursos multimedia que he utilizado](#recursos-multimedia-que-he-utilizado-)
+- [📺📱 Bitácoras + Recursos multimedia que he utilizado](#bitácoras-y-recursos-multimedia-que-he-utilizado-)
     - [Semana 1](#semana-1-)
     - [Semana 2](#semana-2-)  
 - [🔗 Herramientas-Inspiración-Otros](#herramientas-inspiración-otros-)
 - [¿Por qué llevar una bitácora?](#por-qué-llevar-una-bitácora-)
-- [Bitácoras semanales](#bitácoras-semanales-)
 - [Créditos Iconos](#créditos-iconos-)
 - [Donaciones](#donaciones-)
 
-# Recursos multimedia que he utilizado [↑](#tabla-de-contenido)
+# Bitácoras y Recursos multimedia que he utilizado [↑](#tabla-de-contenido)
 *Están en el orden cronológico en que yo los fui viendo/terminando, no necesariamente es como recomendaría irlos viendo.*
 
 ## Semana 1 [↑](#tabla-de-contenido)
+
+### 📓 Bitácora #1 = [Escrita](https://alenplox.blogspot.com/2021/01/bitacora-web-developer-semana-1.html) - [Vídeo](https://www.youtube.com/embed/vif0IUfs_Uo)
 
 - Recurso: [HTML y CSS 💪 Curso Completo Español [DESDE CERO]](https://www.youtube.com/watch_videos?video_ids=rr2H086z16s,ni3LEc3kvas,tlRGfnSgArQ,QrJyvzjjDT8,rQXF-_UwmGo,z5JkDNG8gtE,EVAfRe6q-LY,zpRlWZrLztc,RErT4Yrx9zw,X0RNkXYS6Pg,ot965xP63eU,oqegxG13FzA,-N-ch_rmZg0,WAAA0fBZy4Y,X0qe4XJI5eY,GVjgi3Fg4Xg,wUn-Z48wBPk,I9kAo_2dUNo,cALJnjFUJbg,vEvdIzm-U-o,VKfVrgrS0gk,Z0aspFpdOdA,z7ecV0tL1Gg,4DbzYOmr3vQ,AqQRnrH43ao,Td4R9uva8rQ,BgGA_raDZP0,fZJsLmLD2tQ,NzU0NUfOFz4) (lista no oficial) por [Bluuweb !](https://www.youtube.com/channel/UCH7IANkyEcsVW_y1IlpkamQ) 
     - Tipo: 📺 Videos/Playlist 
@@ -35,6 +36,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
         - Al igual que el otro curso que liste de este mismo creador, su forma de hablar no me convence, pero el contenido que transmite es bueno. Para este curso en especial me parece que le hizo falta añadir ayudas visuales a la hora de introducir términos propios de programación (definiciones con ejemplos reales, así cuando se nombra algo como una variable alguien que esta empezando en esto pueda entender de mejor forma, sin depender de pausar el video para buscarlo). Como nota personal, creo que el curso sirve más como repaso que como introducción a la programación, al ser este el uso que yo le di me permitió ver un poco mas temas de la lógica/estructura detrás de cada función predeterminada que realmente comprender como programar ya que una vez que termine me hice la pregunta ¿si yo hubiese visto este curso para comenzar desde cero, ahora que lo termine como hubiera continuado? Y no tengo una repuesta clara, aunque he de mencionar que el tener cierto conocimiento de Excel me ha ayudado a ir comprendiendo esto de forma más fácil.
 
 ## Semana 2 [↑](#tabla-de-contenido)
+### 📓 Bitácora #2 = [Escrita](https://alenplox.blogspot.com/2021/04/bitacora-desarrollador-web-2.html) - [Vídeo](https://www.youtube.com/embed/88VbTtd0UtY)
 - Recurso: [Learn HTML - For Beginners](https://www.udemy.com/course/learn-html-for-beginners/) por [YouAccel Training](https://www.udemy.com/user/youaccel/)
     - Tipo: 📺 Videos/Playlist
     - Lenguaje(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32)
@@ -118,11 +120,6 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
 Existen múltiples cursos gratuitos tanto como de pago respecto a estos temas y siempre suelen tener comentarios positivos sin ningún tipo de critica que me permita saber que anticipar o, por otro lado, conocer de qué modo le ayudo dicha guía a esa persona. Por ello he decidido documentar mi proceso de aprendizaje, así si alguien llega a este repositorio durante su proceso de auto enseñanza este pueda tener videos/aplicaciones/enlaces que le ayuden, pero más importante anticipar si aquel curso x de una duración de 3 horas vale la pena o solo es otro video que habla de algo que ya se ha visto/aprendido evitándose esa pérdida de tiempo (como yo seguramente hare o ya hice).
 
 A su vez, quiero tener todo en un solo lugar al cual pueda acceder fácilmente si busco algo y ya tengo muchos marcadores en mi navegador por lo que ir liberándome de algunos acá me parece una buena decisión.
-
-# Bitácoras semanales [↑](#tabla-de-contenido)
-- [Semana 1](https://alenplox.blogspot.com/2021/01/bitacora-web-developer-semana-1.html)
-- [Semana 2](https://alenplox.blogspot.com/2021/04/bitacora-desarrollador-web-2.html)
-
 
 # Créditos Iconos [↑](#tabla-de-contenido)
 <a href="https://iconscout.com/icons/css" target="_blank">Css Logo Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons" target="_blank">Pixel Icons</a>
