@@ -24,7 +24,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
 
 <details>
 <summary>Ver recursos</summary>
-    
+
 - Recurso: [HTML y CSS 💪 Curso Completo Español [DESDE CERO]](https://www.youtube.com/watch_videos?video_ids=rr2H086z16s,ni3LEc3kvas,tlRGfnSgArQ,QrJyvzjjDT8,rQXF-_UwmGo,z5JkDNG8gtE,EVAfRe6q-LY,zpRlWZrLztc,RErT4Yrx9zw,X0RNkXYS6Pg,ot965xP63eU,oqegxG13FzA,-N-ch_rmZg0,WAAA0fBZy4Y,X0qe4XJI5eY,GVjgi3Fg4Xg,wUn-Z48wBPk,I9kAo_2dUNo,cALJnjFUJbg,vEvdIzm-U-o,VKfVrgrS0gk,Z0aspFpdOdA,z7ecV0tL1Gg,4DbzYOmr3vQ,AqQRnrH43ao,Td4R9uva8rQ,BgGA_raDZP0,fZJsLmLD2tQ,NzU0NUfOFz4) (lista no oficial) por [Bluuweb !](https://www.youtube.com/channel/UCH7IANkyEcsVW_y1IlpkamQ) 
     - Tipo: 📺 Videos/Playlist 
     - Lenguajes(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) - CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32)
@@ -47,7 +47,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
 
 <details>
 <summary>Ver recursos</summary>
-    
+
 - Recurso: [Learn HTML - For Beginners](https://www.udemy.com/course/learn-html-for-beginners/) por [YouAccel Training](https://www.udemy.com/user/youaccel/)
     - Tipo: 📺 Videos/Playlist
     - Lenguaje(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32)
@@ -123,7 +123,9 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
         - Además de dar a conocer extensiones para ser mas eficientes a la hora de escribir: [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) – [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) – [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) – [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) – [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) – [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) – [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) – [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) – [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 </details>
     
-    
+   
+   
+   
 ## Semana 3
 ### 📓 Bitácora #3 = [Escrita](https://alenplox.blogspot.com/2021/06/bitacora-desarrollador-web-3.html) - Vídeo (pronto) <!-- {docsify-ignore} -->
 
