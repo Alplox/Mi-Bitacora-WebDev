@@ -10,6 +10,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
 - [📺📱 Bitácoras + Recursos multimedia que he utilizado](#bitácoras-y-recursos-multimedia-que-he-utilizado)
     - [Semana 1](#semana-1)
     - [Semana 2](#semana-2)  
+    - [Semana 3](#semana-3)  
 - [🔗 Herramientas-Inspiración-Otros](#herramientas-inspiración-otros)
 - [¿Por qué llevar una bitácora?](#por-qué-llevar-una-bitácora)
 - [Créditos Iconos](#créditos-iconos)
@@ -21,6 +22,9 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
 ## Semana 1
 ### 📓 Bitácora #1 = [Escrita](https://alenplox.blogspot.com/2021/01/bitacora-web-developer-semana-1.html) - [Vídeo](https://www.youtube.com/embed/vif0IUfs_Uo) <!-- {docsify-ignore} -->
 
+<details>
+<summary>Ver recursos</summary>
+    
 - Recurso: [HTML y CSS 💪 Curso Completo Español [DESDE CERO]](https://www.youtube.com/watch_videos?video_ids=rr2H086z16s,ni3LEc3kvas,tlRGfnSgArQ,QrJyvzjjDT8,rQXF-_UwmGo,z5JkDNG8gtE,EVAfRe6q-LY,zpRlWZrLztc,RErT4Yrx9zw,X0RNkXYS6Pg,ot965xP63eU,oqegxG13FzA,-N-ch_rmZg0,WAAA0fBZy4Y,X0qe4XJI5eY,GVjgi3Fg4Xg,wUn-Z48wBPk,I9kAo_2dUNo,cALJnjFUJbg,vEvdIzm-U-o,VKfVrgrS0gk,Z0aspFpdOdA,z7ecV0tL1Gg,4DbzYOmr3vQ,AqQRnrH43ao,Td4R9uva8rQ,BgGA_raDZP0,fZJsLmLD2tQ,NzU0NUfOFz4) (lista no oficial) por [Bluuweb !](https://www.youtube.com/channel/UCH7IANkyEcsVW_y1IlpkamQ) 
     - Tipo: 📺 Videos/Playlist 
     - Lenguajes(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) - CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32)
@@ -33,9 +37,17 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
     - Nota (de 10): 6
     - Reseña: 
         - Al igual que el otro curso que liste de este mismo creador, su forma de hablar no me convence, pero el contenido que transmite es bueno. Para este curso en especial me parece que le hizo falta añadir ayudas visuales a la hora de introducir términos propios de programación (definiciones con ejemplos reales, así cuando se nombra algo como una variable alguien que esta empezando en esto pueda entender de mejor forma, sin depender de pausar el video para buscarlo). Como nota personal, creo que el curso sirve más como repaso que como introducción a la programación, al ser este el uso que yo le di me permitió ver un poco mas temas de la lógica/estructura detrás de cada función predeterminada que realmente comprender como programar ya que una vez que termine me hice la pregunta ¿si yo hubiese visto este curso para comenzar desde cero, ahora que lo termine como hubiera continuado? Y no tengo una repuesta clara, aunque he de mencionar que el tener cierto conocimiento de Excel me ha ayudado a ir comprendiendo esto de forma más fácil.
+</details>
+    
+    
+    
 
 ## Semana 2
 ### 📓 Bitácora #2 = [Escrita](https://alenplox.blogspot.com/2021/04/bitacora-desarrollador-web-2.html) - [Vídeo](https://www.youtube.com/embed/88VbTtd0UtY) <!-- {docsify-ignore} -->
+
+<details>
+<summary>Ver recursos</summary>
+    
 - Recurso: [Learn HTML - For Beginners](https://www.udemy.com/course/learn-html-for-beginners/) por [YouAccel Training](https://www.udemy.com/user/youaccel/)
     - Tipo: 📺 Videos/Playlist
     - Lenguaje(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32)
@@ -74,7 +86,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
     - Tipo: 📱 Aplicación/[Página](https://www.programminghub.io)
     - Lenguaje(s): JavaScript ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=javascript&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F225993.png&width=32&height=32)
     - Nota (de 10): 5
-    - Reseña: (Curso adquirido de forma: pago)
+    - Reseña: (Curso adquirido de forma: Pago)
         - Hace unos años compre el “pro” de esta aplicación para acceder al curso completo de Python y aprovechar de obtener un certificado por un bajo precio, ahora hace unos días me fije de que el “pro” dejo de ser exclusivo a el tipo de lenguaje que compre y es aplicable a toda mi cuenta, en consecuencia, ahora puedo obtener todos los certificados y acceder a todos los cursos. Lo que me ha hecho volver a darle una oportunidad y también dar un vistazo a que ha cambiado en estos años desde que page por esta aplicación/curso/certificado. 
         - Para empezar este curso como introducción a JavaScript podría de recomendarlo, pero para aprender JavaScript como tal no mucho. El porqué de esto es debido a como se explican los contenidos con esta estructura bastante condensada de que es lo que hacen ciertas funciones junto a exámenes que no requieren tanto esfuerzo porque perfectamente se pueden aprobar por mera fuerza bruta (ingresando una opción a la vez hasta hallar la correcta). Pero por otro lado el curso si me ayudo a comprender cosas solamente que el momento en cuando lo vi no es el indicado, el que aun este aprendiendo HTML y haya pasado a JavaScript inmediatamente no fue una sabia decisión de mi parte, pero ahora sé de qué cuando comience de lleno con JavaScript puedo dar otra oportunidad a este curso para reforzar de forma rápida algunos conceptos.
         - Si decides pagar por el curso completo con la expectativa de aprender JavaScript al nivel de poder desarrollar programas/sitios web no vale la pena, si decides pagar solo para familiarizarte con JavaScript también diría que no, eso es algo que puede hacerse de manera gratuita. Aquí lo único que uno gana pagando este curso es lo mismo que gano con un curso de Udemy, un certificado con el cual pueda demostrar que invertí tiempo en aprender algo (si el certificado tendrá peso en algo como un curriculum dependerá de la empresa a que se postule ya que en mi opinión los certificados no valen nada).
@@ -101,7 +113,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
         - Si quieren aprender a usar o probar distintos IDE’s con el tiempo a medida que escriban código irán aprendiendo o si quieren que sea pronto, el consejo que no me cansare de escribir, existe un medio gratuito para ello, es cosa de ir a Youtube y tendrás cientos de personas compitiendo por tu atención para enseñarte.
 - Recurso: [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) por [Fernando Herrera](https://www.udemy.com/user/550c38655ec11/)
     - Tipo: 📺 Videos/Playlist
-    - Lenguaje(s): 
+    - Lenguaje(s): N/A
     - Nota (de 10): 7
     - Reseña: (Curso adquirido de forma: Gratuita)
         - A modo de demostrar que se pueden adquirir los conocimientos que el curso anterior a este decía entregar (“Code Editors Master Course”) me he topado con que estaba inscrito en este igualmente por lo que mate dos pájaros de un tiro. El curso igualmente esta gratis en Youtube [https://www.youtube.com/watch?v=wIzCjeCXbdM&list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf](https://www.youtube.com/watch?v=wIzCjeCXbdM&list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf) como detalle le faltan videos en comparación a curso Udemy.
@@ -109,8 +121,108 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
         - [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
         - [https://code.visualstudio.com/docs/getstarted/tips-and-tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
         - Además de dar a conocer extensiones para ser mas eficientes a la hora de escribir: [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) – [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) – [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) – [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) – [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) – [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) – [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) – [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) – [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+</details>
+    
+    
+## Semana 3
+### 📓 Bitácora #3 = [Escrita](https://alenplox.blogspot.com/2021/06/bitacora-desarrollador-web-3.html) - Vídeo (pronto) <!-- {docsify-ignore} -->
 
+<details>
+<summary>Ver recursos</summary>
 
+- Recurso: [Curso HTML](https://programminghub.io/coursedetail/programming/learn/HTML/10) por [Programming Hub](https://www.programminghub.io)
+    - Tipo: 📱 Aplicación/[Página](https://www.programminghub.io)
+    - Lenguaje(s): HTML
+    - Nota (de 10): 1
+    - Reseña: (Curso adquirido de forma: Pago) 
+        - Tiene faltas ortográficas en cuanto a cómo se escriben algunas etiquetas a la hora de presentarlas, lo que para un principiante es pésimo.
+        - El contenido es trivial, es una explicación de qué es y hace HTML y algunas de sus etiquetas y ya.
+        - De por medio se iban mostrando los siguientes videos por lo que si quieren ahorrarse el curso aquí los dejo: https://youtu.be/_z-LOJN-8ic y https://youtu.be/r0tJEjFZ87M
+        - Es muy básico y deja un montón de cosas fuera, no sirve ni a modo de repaso. Cuando te enseña código no te muestra el resultado de este.
+        - Cabe mencionar que es HTML no HTML5.
+- Recurso: [HTML](https://play.google.com/store/apps/details?id=com.sololearn.htmltrial) por [SoloLearn](https://www.programminghub.io)
+    - Tipo: 📱 Aplicación/[Página](https://www.sololearn.com/learning/1014)
+    - Lenguaje(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32)
+    - Nota (de 10): 8
+    - Reseña: (Curso adquirido de forma: Gratuita) 
+        - Lo bueno de este curso, es que en cada punto puedes ver comentarios que han dejado miembros de la comunidad lo que para mí dio un resultado grato y motivador ya que la mayoría al ser listados por el sistema de puntuación siempre terminan los más útiles primeros y te permiten conocer datos adicionales en base a la experiencia de otros directamente.
+        - Además, este sistema de puntuación incentiva a estos a aportar, por lo que cada materia está llena de gente dando consejos o expandiendo en una explicación más detallada que la que entrega el curso.
+        - Fue divertido lo constante que me iba inmediatamente a ver los comentarios que había dejado la gente en cada etapa, eso sí, son bastante viejos variando entre 2016-2018 la mayoría.
+        - El curso te va enseñando el resultado de todo código que te presenta, lo que considero que ayuda, al menos a mí que soy una persona visual para aprender (a pesar de que este tipo de aprendizaje no exista [https://journals.sagepub.com/doi/abs/10.1177/0098628315589505](https://journals.sagepub.com/doi/abs/10.1177/0098628315589505) si considero que se me da mejor algo si lo veo primero).
+        - A diferencia de con otros cursos este es mucho más activo que otros, en el sentido de que por cada dato que te entrega te hará unas preguntas al respecto en la siguiente etapa. Lo que te obliga a prestar atención ya que no son solo preguntas de alternativas (aunque tampoco son preguntas muy complejas que digamos).
+        - Dentro de lo malo que tiene, es que posee de mucha información desactualizada al principio, es tal como en el curso “Curso HTML, Programming Hub” en el sentido de que te enseña HTML no HTML5, SOLO AL PRINCIPIO, ya que luego si tiene unidades respecto a HTML5.
+        - Otra cosa mala que también tiene es que algunas de las preguntas que te van haciendo de por medio están mal formuladas o directamente la “respuesta correcta” es incorrecta.
+        - Sin olvidarme, de que en medio de la unidad de HTML5 te tiran datos sobre API’s y JavaScript sin ningún enlace a nada de lo posteriormente visto, siendo explicados decentemente, pero creo que para alguien que está iniciando con HTML es seguro asumir que no sabe nada de JS.
+- Recurso: [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) por [freeCodeCamp](https://www.freecodecamp.org/)
+    - Tipo: 🔗 [Página](https://www.freecodecamp.org/)
+    - Lenguaje(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) - CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32)
+    - Nota (de 10): 8
+    - Reseña: (Curso adquirido de forma: Gratuita) 
+        - Este curso al igual que con el anterior (“HTML, Sololearn”) involucra aprendizaje activo, en el caso de este curso para pasar a la siguiente sección se te pide que tú crees los elementos que se te fueron presentados y los llenes con cierto dato (ejemplo: crea un párrafo con “hola mundo” -> (p)hola mundo(/p)) y me parece un método mucho más efectivo para memorizar lo que se va aprendiendo, ya que como he mencionado durante mis bitácoras semanales; no he ido tomando apuntes, ni tampoco he ido creando proyectos a la par que avanzo en un curso. 
+        - Por otra parte, esto de ir escribiendo código para proseguir ayuda a mejorar la destreza para digitar estas etiquetas/códigos, lo que considero que me sirvió ya que soy tengo bastante dislexia (o debería decir disgrafía).
+        - Algo que me di cuenta durante la sección de CSS es lo mágico que son los videos que tienen de ayuda, donde de primeras vi el video pensando que era como cualquier otro, para luego darme con la sorpresa de que podía tener control total del código que fue escrito en el “video” ya que este era algo más similar a una animación preprogramada con un audio de fondo que un video. Me pareció una idea genial y que debiese de ser replicada por otros cursos.
+        - La versión en español tiene varias fallas en la estructura de algunos enunciados, dejando en evidencia la falta de inspección de la coherencia de las traducciones, pienso que fueron realizadas con algún traductor automático más que por un individuo/grupo (a pesar de ello el contenido es entendible, pero si te saca del ritmo cuando te encuentras con algo mal escrito).
+        - Los enlaces que se comparten durante el curso son: 
+            - [https://es.wikipedia.org/wiki/Sistema_hexadecimal](https://es.wikipedia.org/wiki/Sistema_hexadecimal)
+            - [https://es.wikipedia.org/wiki/RGB](https://es.wikipedia.org/wiki/RGB)
+            - [https://en.wikipedia.org/wiki/Color_model](https://en.wikipedia.org/wiki/Color_model)
+            - [https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg](https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg)
+            - [https://es.wikipedia.org/wiki/Historias_de_usuario](https://es.wikipedia.org/wiki/Historias_de_usuario)
+        - Recomiendo ir viendo los videos que dejan dentro de la opción ayuda, los que vi cuando necesité ayuda para cuando una solución no me tomaba como correcta (porque había puesto un espacio donde no debía la mayoría de las veces) me parecieron buenos y que también pueden reducir un poco de la lectura, si es que son del tipo de persona que no le agrada mucho leer.
+        - El curso una vez que finaliza de entregarte información te permite optar por obtener un certificado mediante la creación de pequeños proyectos que debes de compartir con ellos bajo una herramienta que evalúa de forma automática si cumple con los puntos establecidos.
+        - Me pareció buena idea ya que motiva al estudiante a realizar proyectos, los cuales si luego decides retomarlos y pulirlos un poco más te sirven perfectamente para un portafolio que te permita demostrar tus habilidades. En mi caso me limite a solo crear sitios bastante básicos y feos para cumplir con lo que se pedía simplemente, por lo que quizás luego los revisite. 
+        - Por otro lado, esta metodología de dejar 5 pequeños proyectos al final del curso puede ser agobiante. Esto debido a que tras haber visto el contenido hace tanto tiempo atrás en comparación a que si se hubiese requerido de un proyecto a modo de finalizar cada unidad a modo de tener la información “fresca”. 
+        - Algo bueno de haber decidido hacer los proyectos fue el mero hecho de que como estos me me resultaron tan básicos y a su vez los haya realizado de manera tan pobre, me dejaron con esta pequeña llamita de creatividad para rehacerlos de forma más bonita y con ciertos cambios. A pesar de que me resultaban básicos si trate de hacerlos de manera óptima en vez de hacer lo único que se pedía. Lo que me sirvió para experimentar con librerías, tanto como aprender a hacer cosas que de lo contrario hubiera utilizado Bootstrap directamente y listo. Un punto en contra de haber hecho así los proyectos es que me tomaron más tiempo del que realmente necesitaban, porque no pedían que tuvieran diseño responsivo (quizás no completo, pero algunos si pedían de unas medias queries) y aun así me di el tiempo de hacer que lo fueran.
+        - Para el tercer y cuarto proyecto me guie en base a dos artículos (los cuales están listados como recurso después de este curso) esto con el fin de ver alternativas a la solución entregada por freeCodeCamp, ya que en dichas soluciones uno si puede ver el código y podría de haber copiado y pegado directamente y también fue a modo de evitar la “divitis” [https://www.tyssendesign.com.au/articles/faqs/what-is-divitis/](https://www.tyssendesign.com.au/articles/faqs/what-is-divitis/). 
+        - Los proyectos que hice se pueden ver aquí:
+            - [https://codepen.io/alplox/full/LYxwbxM](https://codepen.io/alplox/full/LYxwbxM)
+            - [https://codepen.io/alplox/full/ZELgBgM](https://codepen.io/alplox/full/ZELgBgM)
+            - [https://codepen.io/alplox/full/VwpwbwQ](https://codepen.io/alplox/full/VwpwbwQ)
+            - [https://codepen.io/alplox/full/yLMLrBx](https://codepen.io/alplox/full/yLMLrBx)
+            - [https://codepen.io/alplox/full/qBrdppB](https://codepen.io/alplox/full/qBrdppB)
+- Recurso: [How to build a responsive navbar with a toggle menu using Flexbox](https://www.freecodecamp.org/news/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783/) por Charlie Waite
+    - Tipo: 📝 Artículo
+    - Lenguaje(s): CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32)
+    - Nota (de 10): 3
+    - Reseña:
+        - Este articulo lo leí mientras realizaba el [tercer proyecto de freeCodeCamp](https://codepen.io/alplox/full/VwpwbwQ) ya que no tenía idea de cómo hacer el navbar sin depender de Bootstrap, por lo que decidí de recurrir a información dentro del mismo sitio a pesar de haber encontrado un snippet de uno ya listo.
+        - Me pareció de ayuda ya que va paso a paso mostrando como va separando y moldeando el contenido del navbar y te enseña un poco de Flexbox, que era justo lo que buscaba. Lo malo es que para que este funcione de manera responsiva requiere JavaScript cosa que el snippet que había encontrado no. Lo que me parece una complicación innecesaria ya que esas líneas de código podrían de ahorrarse.
+        - Pero como una pequeña lectura para refrescar conocimientos creo que si tiene de utilidad a pesar de que claramente no es la mejor opción en cuanto a lo que quería realizar.
+- Recurso: [Sectioning Content in HTML5 - div or section or article?](https://bitsofco.de/sectioning-content-in-html5/) por Ire Aderinokun
+    - Tipo: 📝 Artículo
+    - Lenguaje(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32)
+    - Nota (de 10): 5
+    - Reseña:
+        - Artículo de ayuda para la realización del cuarto proyecto de freeCodeCamp a modo de salir de una duda sobre de ¿qué debería de usarse semánticamente para cada sección de contenido?
+        - El cómo está escrito el articulo me gusto, bastante directo. Te entrega una breve definición de la etiqueta, seguido de un ejemplo y un fragmento de lo que se recomienda según la entidad reguladora W3.
+        - En comparación a una respuesta como esta [https://stackoverflow.com/questions/7549561/section-vs-article-html5](https://stackoverflow.com/questions/7549561/section-vs-article-html5)
+        - Creo que se entiende mejor el concepto de donde y como emplear cada etiqueta.
+- Recurso: [Diseño Web con HTML5 + CSS Ed 9](https://conectaempleo-formacion.fundaciontelefonica.com/web/diseno-web-con-html5-css-ed-9) por SENCE - FUNDACIÓN TELEFÓNICA MOVISTAR
+    - Tipo: 🔗 [Página](https://conectaempleo-formacion.fundaciontelefonica.com/web/diseno-web-con-html5-css-ed-9)
+    - Lenguaje(s): HTML ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=html&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F2284975.png&width=32&height=32) - CSS ![](https://download-function-azx225aq7q-uc.a.run.app/download?name=css&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F722685.png&width=32&height=32)
+    - Nota (de 10): 1
+    - Reseña: (Curso adquirido de forma: Gratuita)
+        - Este curso me lo tope mientras revisaba currículos de desarrolladores web desde sus portafolios y me llamo la atención el que Movistar entregará este tipo de guías por lo que decidí echarle un ojo.
+        - Inmediatamente note que la información la entrega a modo de recordatorio/repaso asumiendo que uno conoce gran parte de lo que se va presentando de ante mano, por lo que para alguien que busca aprender desde cero no es el curso que recomendaría. También comete errores en cómo se enseñan ciertos datos, un ejemplo claro es el tener siglas que nunca son explicadas respecto a que significan, tanto como dejar el contexto necesario para responder algunas preguntas fuera del contenido principal y derivarlo al material de ayuda secundario en forma de PDF (y que, para peor, la mayoría de los casos donde se incluyen preguntas que hacen referencia a dichos PDF’s estas son de memorizar un párrafo completo de este).
+        - Los recursos (PDF’s, Videos e Imágenes) que se comparten durante el curso son:
+            - [https://rentry.co/7ncmb](https://rentry.co/7ncmb)
+        - El curso pone énfasis en que un sitio web debe ser accesible para todo tipo de usuario, pero luego las practicas que se enseñan para cumplir con ese objetivo no son demostradas en el sitio del curso en sí.
+        - Una cosa que directamente no me gusto fue el cómo los videos donde se muestra todo el proceso de escritura de un documento HTML5 estos se sienten como si fueran de los años 90 donde solo vemos el texto y el instructor guía dice lo que va a hacer, pero no menciona por qué se hace de la manera que muestra. En ningún punto durante la escritura se da la posibilidad de visualizar el resultado del código escrito hasta ese instante, solo se enseña el resultado final. 
+        - Cosa que resulta frustrante porque la información que realmente importa explicar y/o mencionar la dejan en los PDF’s y con el contenido principal te hacen perder el tiempo con explicaciones decadentes y videos mal condensados que no te enseñan nada que una persona no pudiese deducir si tan solo viera un documento HTML5 finalizado.
+        - Se olvidan de algo tan básico como enseñar a montar un servidor local para ir visualizando los cambios de nuestro documento.
+        - El curso es pésimo, el material complementario (exclusivamente PDF’s y videos que no incluyen código) son decentes.
+- Recurso: [Building an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/) por Joshua Comeau
+    - Tipo: 📚 Libro
+    - Lenguaje(s): N/A
+    - Nota (de 10): 2
+    - Reseña:
+        - El libro es ligero de leer, tiene una estructura similar a estar leyendo una transcripción de una charla más que un libro (o un hilo de Twitter), lo que en lo personal me aburre porque resulta redundante.
+        - Algunos consejos me resultaron razonables, pero otros no. 
+        - Existen consejos que pueden sonar de lo más cuerdos para alguien que los lea, pero para mí no fue así, se sintieron manipuladores y engañosos (un ejemplo que retuve fue sobre cómo te sugiere escribir en tú apartado “about me”, donde pone un extenso ejemplo y luego te explica que lo bueno que tiene es que posee el nombre de un programa de televisión. Siendo aquello “bueno” porque puede atraer la atención de quien este leyendo a la rápida tu portafolio y por ello incentivarlos a leer todo desde el principio para conocer por qué dicho programa está ahí, casi como un clickbait).
+        - El libro lo recomendaría para personas que nunca han hecho un curriculum más que un portafolio, tiene las mismas ideas generales de como hacer un buen curriculum (dejo esta excelente publicación [https://old.reddit.com/r/chile/comments/dj7j0t/ayuda_laboral_parte_1_el_cv/](https://old.reddit.com/r/chile/comments/dj7j0t/ayuda_laboral_parte_1_el_cv/) que me sirvió de ayuda durante mi periodo de elaboración de CV), ya que en el libro se muestran ejemplos de que omitir y que añadir que son paralelos a lo que se puede aplicar a un CV.
+        - Tras leerlo entiendo el porque tiene 72 páginas, sin embargo, hubiese preferido que estuviese mejor condensada la información. 
+</details>
+    
 # Herramientas-Inspiración-Otros
 ## [Mis Recursos WEB DEV](https://github.com/Alplox/mis-recursos-web-dev/blob/main/README.md)
 
